@@ -12,7 +12,7 @@ RAG app that chats with PDFs and answers with page-cited sources.
 - FastAPI backend, OpenRouter LLM for grounded answers
 - **Stack:** Python, FastAPI, Hugging Face, PyMuPDF, NumPy
 
-### 🎙️ [SilentVoice](https://github.com/Sakshi-gupta66/SilentVoice)
+### 🎙️ [VoxaLens](https://github.com/Sakshi-gupta66/VoxaLens)
 Headset-free assistive communication: mouth silently into your webcam, hear it spoken aloud.
 - Browser camera capture, Gemini lip-reading, text-to-speech playback
 - Built as a semester major project — assistive tech with zero hardware cost
